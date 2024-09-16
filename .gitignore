@@ -1,0 +1,15 @@
+
+# Visual Studio cache/options directory
+**/.vs/
+**/*.sdf
+**/*.suo
+**/*.user
+**/*.opensdf
+**/*.VC.db
+**/*.VC.opendb
+
+# Build results
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Oo]bj/
+**/[Bb]in/
